@@ -1,6 +1,5 @@
 # Gene expression analysis of OpenArray data for NOD model
 # Base code written by Russell Urie and adapted by Jessica King
-#Adapted from Aaron's OA analysis matlab code and Russ' RNAseq pipeline
 
   sample_set <- "T1D Open Array"
   currentDate <- Sys.Date()
