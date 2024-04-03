@@ -1,5 +1,5 @@
 # Gene expression analysis of OpenArray data for NOD model
-# Base code written by Russell Urie and adapted by Jessica King
+# Original analysis pipeline code written by Russell Urie and adapted by Jessica King
 
   sample_set <- "T1D Open Array"
   currentDate <- Sys.Date()
