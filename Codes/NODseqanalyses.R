@@ -1,5 +1,5 @@
 # Gene expression analysis of RNAseq from 6wk and diabetic timepoints in NOD cohort
-# Base code written by Russell Urie and adapted by Jessica King
+# Original analysis pipeline code written by Russell Urie and adapted by Jessica King
 
   sample_set <- "NOD 6wk vs diabetic"
   currentDate <- Sys.Date()
