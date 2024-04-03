@@ -1,5 +1,5 @@
 # Gene expression analysis of RNAseq for T1D adoptive transfer (AT) cohort
-# Analysis pipeline code written by Russell Urie and adapted by Jessica King
+# Original analysis pipeline code written by Russell Urie and adapted by Jessica King
 
   sample_set <- "T1D Adoptive Transfer"
   currentDate <- Sys.Date()
